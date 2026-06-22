@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Varadpatil1812/LeetCode-Problem/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Varadpatil1812/LeetCode-Problem/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Varadpatil1812/LeetCode-Problem/tree/master/0152-maximum-product-subarray) |
+| [0238-product-of-array-except-self](https://github.com/Varadpatil1812/LeetCode-Problem/tree/master/0238-product-of-array-except-self) |
 ## Hash Table
 |  |
 | ------- |
@@ -127,4 +128,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Varadpatil1812/LeetCode-Problem/tree/master/0094-binary-tree-inorder-traversal) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/Varadpatil1812/LeetCode-Problem/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
