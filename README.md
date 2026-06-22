@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/Varadpatil1812/LeetCode-Problem/tree/master/0152-maximum-product-subarray) |
 | [0238-product-of-array-except-self](https://github.com/Varadpatil1812/LeetCode-Problem/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Varadpatil1812/LeetCode-Problem/tree/master/0283-move-zeroes) |
+| [0826-most-profit-assigning-work](https://github.com/Varadpatil1812/LeetCode-Problem/tree/master/0826-most-profit-assigning-work) |
 ## Hash Table
 |  |
 | ------- |
@@ -74,16 +75,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Varadpatil1812/LeetCode-Problem/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Varadpatil1812/LeetCode-Problem/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/Varadpatil1812/LeetCode-Problem/tree/master/0283-move-zeroes) |
+| [0826-most-profit-assigning-work](https://github.com/Varadpatil1812/LeetCode-Problem/tree/master/0826-most-profit-assigning-work) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Varadpatil1812/LeetCode-Problem/tree/master/0011-container-with-most-water) |
+| [0826-most-profit-assigning-work](https://github.com/Varadpatil1812/LeetCode-Problem/tree/master/0826-most-profit-assigning-work) |
 ## Sorting
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Varadpatil1812/LeetCode-Problem/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/Varadpatil1812/LeetCode-Problem/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Varadpatil1812/LeetCode-Problem/tree/master/0088-merge-sorted-array) |
+| [0826-most-profit-assigning-work](https://github.com/Varadpatil1812/LeetCode-Problem/tree/master/0826-most-profit-assigning-work) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -93,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Varadpatil1812/LeetCode-Problem/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Varadpatil1812/LeetCode-Problem/tree/master/0035-search-insert-position) |
+| [0826-most-profit-assigning-work](https://github.com/Varadpatil1812/LeetCode-Problem/tree/master/0826-most-profit-assigning-work) |
 ## Dynamic Programming
 |  |
 | ------- |
