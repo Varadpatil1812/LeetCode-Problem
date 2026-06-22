@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Varadpatil1812/LeetCode-Problem/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Varadpatil1812/LeetCode-Problem/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/Varadpatil1812/LeetCode-Problem/tree/master/0041-first-missing-positive) |
+| [0042-trapping-rain-water](https://github.com/Varadpatil1812/LeetCode-Problem/tree/master/0042-trapping-rain-water) |
 ## Hash Table
 |  |
 | ------- |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Varadpatil1812/LeetCode-Problem/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Varadpatil1812/LeetCode-Problem/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Varadpatil1812/LeetCode-Problem/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/Varadpatil1812/LeetCode-Problem/tree/master/0042-trapping-rain-water) |
 ## Greedy
 |  |
 | ------- |
@@ -73,4 +75,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Varadpatil1812/LeetCode-Problem/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Varadpatil1812/LeetCode-Problem/tree/master/0035-search-insert-position) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Varadpatil1812/LeetCode-Problem/tree/master/0042-trapping-rain-water) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Varadpatil1812/LeetCode-Problem/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Varadpatil1812/LeetCode-Problem/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
