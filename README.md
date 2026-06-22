@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Varadpatil1812/LeetCode-Problem/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Varadpatil1812/LeetCode-Problem/tree/master/0152-maximum-product-subarray) |
 | [0238-product-of-array-except-self](https://github.com/Varadpatil1812/LeetCode-Problem/tree/master/0238-product-of-array-except-self) |
+| [0283-move-zeroes](https://github.com/Varadpatil1812/LeetCode-Problem/tree/master/0283-move-zeroes) |
 ## Hash Table
 |  |
 | ------- |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Varadpatil1812/LeetCode-Problem/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Varadpatil1812/LeetCode-Problem/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Varadpatil1812/LeetCode-Problem/tree/master/0125-valid-palindrome) |
+| [0283-move-zeroes](https://github.com/Varadpatil1812/LeetCode-Problem/tree/master/0283-move-zeroes) |
 ## Greedy
 |  |
 | ------- |
