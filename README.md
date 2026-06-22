@@ -16,12 +16,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Varadpatil1812/LeetCode-Problem/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/Varadpatil1812/LeetCode-Problem/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Varadpatil1812/LeetCode-Problem/tree/master/0054-spiral-matrix) |
+| [0073-set-matrix-zeroes](https://github.com/Varadpatil1812/LeetCode-Problem/tree/master/0073-set-matrix-zeroes) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Varadpatil1812/LeetCode-Problem/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Varadpatil1812/LeetCode-Problem/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0041-first-missing-positive](https://github.com/Varadpatil1812/LeetCode-Problem/tree/master/0041-first-missing-positive) |
+| [0073-set-matrix-zeroes](https://github.com/Varadpatil1812/LeetCode-Problem/tree/master/0073-set-matrix-zeroes) |
 | [1189-maximum-number-of-balloons](https://github.com/Varadpatil1812/LeetCode-Problem/tree/master/1189-maximum-number-of-balloons) |
 ## Linked List
 |  |
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/Varadpatil1812/LeetCode-Problem/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Varadpatil1812/LeetCode-Problem/tree/master/0054-spiral-matrix) |
+| [0073-set-matrix-zeroes](https://github.com/Varadpatil1812/LeetCode-Problem/tree/master/0073-set-matrix-zeroes) |
 ## Simulation
 |  |
 | ------- |
