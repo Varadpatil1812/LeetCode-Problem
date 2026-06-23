@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/Varadpatil1812/LeetCode-Problem/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/Varadpatil1812/LeetCode-Problem/tree/master/0073-set-matrix-zeroes) |
 | [1189-maximum-number-of-balloons](https://github.com/Varadpatil1812/LeetCode-Problem/tree/master/1189-maximum-number-of-balloons) |
+| [2287-rearrange-characters-to-make-target-string](https://github.com/Varadpatil1812/LeetCode-Problem/tree/master/2287-rearrange-characters-to-make-target-string) |
 ## Linked List
 |  |
 | ------- |
@@ -56,10 +57,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Varadpatil1812/LeetCode-Problem/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0125-valid-palindrome](https://github.com/Varadpatil1812/LeetCode-Problem/tree/master/0125-valid-palindrome) |
 | [1189-maximum-number-of-balloons](https://github.com/Varadpatil1812/LeetCode-Problem/tree/master/1189-maximum-number-of-balloons) |
+| [2287-rearrange-characters-to-make-target-string](https://github.com/Varadpatil1812/LeetCode-Problem/tree/master/2287-rearrange-characters-to-make-target-string) |
 ## Counting
 |  |
 | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/Varadpatil1812/LeetCode-Problem/tree/master/1189-maximum-number-of-balloons) |
+| [2287-rearrange-characters-to-make-target-string](https://github.com/Varadpatil1812/LeetCode-Problem/tree/master/2287-rearrange-characters-to-make-target-string) |
 ## Sliding Window
 |  |
 | ------- |
