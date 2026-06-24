@@ -4,7 +4,7 @@ class Solution {
         int sum = 0;
         int left = 0;
         int right = 0;
-        int minlen = n + 1;
+        int minlen = Integer.MAX_VALUE;
         while(right < n){
             sum += nums[right];
             while(sum >= target){
@@ -15,7 +15,7 @@ class Solution {
             right++;
         }
 
-        return minlen == n+1 ? 0 : minlen;
+        return minlen == Integer.MAX_VALUE ? 0 : minlen;
 
         
     }
