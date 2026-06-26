@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Varadpatil1812/LeetCode-Problem/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/Varadpatil1812/LeetCode-Problem/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/Varadpatil1812/LeetCode-Problem/tree/master/0048-rotate-image) |
+| [2396-strictly-palindromic-number](https://github.com/Varadpatil1812/LeetCode-Problem/tree/master/2396-strictly-palindromic-number) |
 ## Recursion
 |  |
 | ------- |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Varadpatil1812/LeetCode-Problem/tree/master/0283-move-zeroes) |
 | [0826-most-profit-assigning-work](https://github.com/Varadpatil1812/LeetCode-Problem/tree/master/0826-most-profit-assigning-work) |
 | [0876-middle-of-the-linked-list](https://github.com/Varadpatil1812/LeetCode-Problem/tree/master/0876-middle-of-the-linked-list) |
+| [2396-strictly-palindromic-number](https://github.com/Varadpatil1812/LeetCode-Problem/tree/master/2396-strictly-palindromic-number) |
 ## Greedy
 |  |
 | ------- |
@@ -181,4 +183,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Varadpatil1812/LeetCode-Problem/tree/master/0014-longest-common-prefix) |
+## Brainteaser
+|  |
+| ------- |
+| [2396-strictly-palindromic-number](https://github.com/Varadpatil1812/LeetCode-Problem/tree/master/2396-strictly-palindromic-number) |
 <!---LeetCode Topics End-->
