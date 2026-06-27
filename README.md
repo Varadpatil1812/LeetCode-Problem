@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Varadpatil1812/LeetCode-Problem/tree/master/0283-move-zeroes) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Varadpatil1812/LeetCode-Problem/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0826-most-profit-assigning-work](https://github.com/Varadpatil1812/LeetCode-Problem/tree/master/0826-most-profit-assigning-work) |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Varadpatil1812/LeetCode-Problem/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Varadpatil1812/LeetCode-Problem/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Varadpatil1812/LeetCode-Problem/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Hash Table
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Varadpatil1812/LeetCode-Problem/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1189-maximum-number-of-balloons](https://github.com/Varadpatil1812/LeetCode-Problem/tree/master/1189-maximum-number-of-balloons) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/Varadpatil1812/LeetCode-Problem/tree/master/2287-rearrange-characters-to-make-target-string) |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Varadpatil1812/LeetCode-Problem/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Varadpatil1812/LeetCode-Problem/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Varadpatil1812/LeetCode-Problem/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Linked List
@@ -187,4 +189,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2396-strictly-palindromic-number](https://github.com/Varadpatil1812/LeetCode-Problem/tree/master/2396-strictly-palindromic-number) |
+## Enumeration
+|  |
+| ------- |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Varadpatil1812/LeetCode-Problem/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 <!---LeetCode Topics End-->
