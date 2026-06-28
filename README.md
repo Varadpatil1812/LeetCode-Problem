@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Varadpatil1812/LeetCode-Problem/tree/master/0283-move-zeroes) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Varadpatil1812/LeetCode-Problem/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0826-most-profit-assigning-work](https://github.com/Varadpatil1812/LeetCode-Problem/tree/master/0826-most-profit-assigning-work) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Varadpatil1812/LeetCode-Problem/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Varadpatil1812/LeetCode-Problem/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Varadpatil1812/LeetCode-Problem/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Varadpatil1812/LeetCode-Problem/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Varadpatil1812/LeetCode-Problem/tree/master/0011-container-with-most-water) |
 | [0826-most-profit-assigning-work](https://github.com/Varadpatil1812/LeetCode-Problem/tree/master/0826-most-profit-assigning-work) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Varadpatil1812/LeetCode-Problem/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Sorting
 |  |
 | ------- |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Varadpatil1812/LeetCode-Problem/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Varadpatil1812/LeetCode-Problem/tree/master/0088-merge-sorted-array) |
 | [0826-most-profit-assigning-work](https://github.com/Varadpatil1812/LeetCode-Problem/tree/master/0826-most-profit-assigning-work) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Varadpatil1812/LeetCode-Problem/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Bit Manipulation
 |  |
 | ------- |
