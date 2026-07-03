@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/Varadpatil1812/LeetCode-Problem/tree/master/0061-rotate-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Varadpatil1812/LeetCode-Problem/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0092-reverse-linked-list-ii](https://github.com/Varadpatil1812/LeetCode-Problem/tree/master/0092-reverse-linked-list-ii) |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Varadpatil1812/LeetCode-Problem/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0876-middle-of-the-linked-list](https://github.com/Varadpatil1812/LeetCode-Problem/tree/master/0876-middle-of-the-linked-list) |
 ## Math
 |  |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Varadpatil1812/LeetCode-Problem/tree/master/0094-binary-tree-inorder-traversal) |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Varadpatil1812/LeetCode-Problem/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Varadpatil1812/LeetCode-Problem/tree/master/0094-binary-tree-inorder-traversal) |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Varadpatil1812/LeetCode-Problem/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -182,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Varadpatil1812/LeetCode-Problem/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Varadpatil1812/LeetCode-Problem/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Varadpatil1812/LeetCode-Problem/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Segment Tree
@@ -206,4 +210,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Varadpatil1812/LeetCode-Problem/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Varadpatil1812/LeetCode-Problem/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 <!---LeetCode Topics End-->
