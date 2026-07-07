@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/Varadpatil1812/LeetCode-Problem/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/Varadpatil1812/LeetCode-Problem/tree/master/0048-rotate-image) |
 | [2396-strictly-palindromic-number](https://github.com/Varadpatil1812/LeetCode-Problem/tree/master/2396-strictly-palindromic-number) |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Varadpatil1812/LeetCode-Problem/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Recursion
 |  |
 | ------- |
