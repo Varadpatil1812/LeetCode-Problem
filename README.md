@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Varadpatil1812/LeetCode-Problem/tree/master/0283-move-zeroes) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Varadpatil1812/LeetCode-Problem/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0826-most-profit-assigning-work](https://github.com/Varadpatil1812/LeetCode-Problem/tree/master/0826-most-profit-assigning-work) |
+| [1331-rank-transform-of-an-array](https://github.com/Varadpatil1812/LeetCode-Problem/tree/master/1331-rank-transform-of-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Varadpatil1812/LeetCode-Problem/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Varadpatil1812/LeetCode-Problem/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Varadpatil1812/LeetCode-Problem/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Varadpatil1812/LeetCode-Problem/tree/master/0141-linked-list-cycle) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Varadpatil1812/LeetCode-Problem/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1189-maximum-number-of-balloons](https://github.com/Varadpatil1812/LeetCode-Problem/tree/master/1189-maximum-number-of-balloons) |
+| [1331-rank-transform-of-an-array](https://github.com/Varadpatil1812/LeetCode-Problem/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Varadpatil1812/LeetCode-Problem/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/Varadpatil1812/LeetCode-Problem/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Varadpatil1812/LeetCode-Problem/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Varadpatil1812/LeetCode-Problem/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Varadpatil1812/LeetCode-Problem/tree/master/0088-merge-sorted-array) |
 | [0826-most-profit-assigning-work](https://github.com/Varadpatil1812/LeetCode-Problem/tree/master/0826-most-profit-assigning-work) |
+| [1331-rank-transform-of-an-array](https://github.com/Varadpatil1812/LeetCode-Problem/tree/master/1331-rank-transform-of-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Varadpatil1812/LeetCode-Problem/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Bit Manipulation
 |  |
