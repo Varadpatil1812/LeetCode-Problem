@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Varadpatil1812/LeetCode-Problem/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Varadpatil1812/LeetCode-Problem/tree/master/0283-move-zeroes) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Varadpatil1812/LeetCode-Problem/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Varadpatil1812/LeetCode-Problem/tree/master/0628-maximum-product-of-three-numbers) |
 | [0826-most-profit-assigning-work](https://github.com/Varadpatil1812/LeetCode-Problem/tree/master/0826-most-profit-assigning-work) |
 | [1331-rank-transform-of-an-array](https://github.com/Varadpatil1812/LeetCode-Problem/tree/master/1331-rank-transform-of-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Varadpatil1812/LeetCode-Problem/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Varadpatil1812/LeetCode-Problem/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/Varadpatil1812/LeetCode-Problem/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/Varadpatil1812/LeetCode-Problem/tree/master/0048-rotate-image) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Varadpatil1812/LeetCode-Problem/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Varadpatil1812/LeetCode-Problem/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2396-strictly-palindromic-number](https://github.com/Varadpatil1812/LeetCode-Problem/tree/master/2396-strictly-palindromic-number) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Varadpatil1812/LeetCode-Problem/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Varadpatil1812/LeetCode-Problem/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/Varadpatil1812/LeetCode-Problem/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Varadpatil1812/LeetCode-Problem/tree/master/0088-merge-sorted-array) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Varadpatil1812/LeetCode-Problem/tree/master/0628-maximum-product-of-three-numbers) |
 | [0826-most-profit-assigning-work](https://github.com/Varadpatil1812/LeetCode-Problem/tree/master/0826-most-profit-assigning-work) |
 | [1331-rank-transform-of-an-array](https://github.com/Varadpatil1812/LeetCode-Problem/tree/master/1331-rank-transform-of-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Varadpatil1812/LeetCode-Problem/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
